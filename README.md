@@ -28,7 +28,11 @@ Im **Carl Andrew Castanas** also known as **carlcastanas**, and I'm a **top GitH
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 <!-- BLOG-POST-LIST:END -->
-    
+
+### 📕 &nbsp;**Latest Blog Posts**
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ### GitHub Highlights: :blossom:
 <a href="https://www.linkedin.com/in/carlcastanas/">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlcastanas&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
