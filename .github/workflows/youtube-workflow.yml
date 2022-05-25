@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest Youtube
 on:
   schedule:
     # Runs every hour
@@ -6,12 +6,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-youtube:
+    name: Update this repo's README with latest video from YouTube
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "YOUTUBE"
           max_post_count: "4"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrG2Z0usOCCdUTAr4D1A8mw"
