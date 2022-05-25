@@ -29,7 +29,7 @@ Im **Carl Andrew Castanas** also known as **carlcastanas**, and I'm a **top GitH
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 <!-- BLOG-POST-LIST:END -->
 
-### 📕 &nbsp;**Latest Blog Posts**
+### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
