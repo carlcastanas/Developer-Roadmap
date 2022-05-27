@@ -10,10 +10,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Complete Next.js Course for Beginners #23 - Fetcher Function](https://www.youtube.com/watch?v=MERtH_EU5p4)
 - [Complete Next.js Course for Beginners #22 - SWR Own Hooks](https://www.youtube.com/watch?v=jHFQnSoLd14)
 - [Complete Next.js Course for Beginners #21 - API HTTP Requests](https://www.youtube.com/watch?v=upLlY60b9jk)
 - [Complete Next.js Course for Beginners #20 - MongoDB Database Connection](https://www.youtube.com/watch?v=FnOuiDB4JJ8)
-- [Complete Next.js Course for Beginners #19 - SWR](https://www.youtube.com/watch?v=7y1cp8mm45c)
 <!-- YOUTUBE:END -->
 
 -----
