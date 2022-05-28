@@ -8,6 +8,16 @@
 
 -----
 
+### 📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [When Netlify asks you to full-time OSS, you say yes!](https://dev.to/ryansolid/when-netlify-asks-you-to-full-time-oss-you-say-yes-5ccf)
+- [Marko for Sites, Solid for Apps](https://dev.to/this-is-learning/marko-for-sites-solid-for-apps-2c7d)
+- [Marko: Compiling Fine-Grained Reactivity](https://dev.to/ryansolid/marko-compiling-fine-grained-reactivity-4lk4)
+- [Conquering JavaScript Hydration](https://dev.to/this-is-learning/conquering-javascript-hydration-a9f)
+<!-- BLOG-POST-LIST:END -->
+
+-----
+
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
 - [Complete Next.js Course for Beginners #23 - Fetcher Function](https://www.youtube.com/watch?v=MERtH_EU5p4)
