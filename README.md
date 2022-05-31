@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Next.js Blog Application with Tailwind CSS - For Beginners [#1]](https://www.youtube.com/watch?v=i7ck-bx0yCw)
 - [Complete Next.js Course for Beginners - Zero to Hero](https://www.youtube.com/watch?v=84CvqVTH9Y8)
 - [Complete Next.js Course for Beginners #24 - SSR with SWR](https://www.youtube.com/watch?v=JMhsEUave44)
 - [Complete Next.js Course for Beginners #23 - Fetcher Function](https://www.youtube.com/watch?v=MERtH_EU5p4)
-- [Complete Next.js Course for Beginners #22 - SWR Own Hooks](https://www.youtube.com/watch?v=jHFQnSoLd14)
 <!-- YOUTUBE:END -->
 
 -----
