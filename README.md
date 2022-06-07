@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Next.js Blog Application with Tailwind CSS - For Beginners [#7] - Swiper Slider](https://www.youtube.com/watch?v=dcCDkp0-dnQ)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#6] - Author Component](https://www.youtube.com/watch?v=qJ7wrNRaVds)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#5] - Section 1](https://www.youtube.com/watch?v=ul5G9AcpW5o)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#4] - Layout Component](https://www.youtube.com/watch?v=_nWH92OUMiY)
-- [Next.js Blog Application with Tailwind CSS - For Beginners [#3] - Social Icons](https://www.youtube.com/watch?v=TLsiwl07GXI)
 <!-- YOUTUBE:END -->
 
 -----
