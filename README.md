@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Next.js Blog Application with Tailwind CSS - For Beginners [#13] - Related Component](https://www.youtube.com/watch?v=3Uus1qYgFhI)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#12] - Blog Page](https://www.youtube.com/watch?v=-m4Ai6QhluA)
 - [Next.js Blog Application with Tailwind CSS #shorts](https://www.youtube.com/watch?v=-fiaDgRKFXI)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#11] - Footer](https://www.youtube.com/watch?v=GPVTZkg_qGI)
-- [Next.js Blog Application with Tailwind CSS - For Beginners [#10] - Section 4](https://www.youtube.com/watch?v=9lsWtk0XYbE)
 <!-- YOUTUBE:END -->
 
 -----
