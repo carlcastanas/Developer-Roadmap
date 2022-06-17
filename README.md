@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Next.js Blog Application with Tailwind CSS - For Beginners [#16] - Fetching](https://www.youtube.com/watch?v=jjoAVHDMHrU)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#15] - API Dynamic Routes](https://www.youtube.com/watch?v=mc1CewH1Uzg)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#14] - APIs](https://www.youtube.com/watch?v=NXw9EJSjZVg)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#13] - Related Component](https://www.youtube.com/watch?v=3Uus1qYgFhI)
-- [Next.js Blog Application with Tailwind CSS - For Beginners [#12] - Blog Page](https://www.youtube.com/watch?v=-m4Ai6QhluA)
 <!-- YOUTUBE:END -->
 
 -----
