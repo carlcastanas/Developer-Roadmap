@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [CSS Spinner #shorts](https://www.youtube.com/watch?v=V6-pQvrN4I4)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#17] - SWR](https://www.youtube.com/watch?v=QdbEfWv_DwY)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#16] - Fetching](https://www.youtube.com/watch?v=jjoAVHDMHrU)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#15] - API Dynamic Routes](https://www.youtube.com/watch?v=mc1CewH1Uzg)
-- [Next.js Blog Application with Tailwind CSS - For Beginners [#14] - APIs](https://www.youtube.com/watch?v=NXw9EJSjZVg)
 <!-- YOUTUBE:END -->
 
 -----
