@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [How to Make Blog Website with Next.js &amp; Tailwind CSS - For Beginners](https://www.youtube.com/watch?v=1T3GF6endl8)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#24] - Finalizing Website](https://www.youtube.com/watch?v=KEuiU50R8AA)
 - [JavaScript Default Parameter in less than 1 Minutes #shorts](https://www.youtube.com/watch?v=6jHO7r5sIn4)
 - [Next.js Blog Application with Tailwind CSS - For Beginners [#23] - Link Navigation](https://www.youtube.com/watch?v=lQsCvOQ1VMg)
-- [Next.js Blog Application with Tailwind CSS - For Beginners [#22] - SWR](https://www.youtube.com/watch?v=SZyEUNEBl6M)
 <!-- YOUTUBE:END -->
 
 -----
