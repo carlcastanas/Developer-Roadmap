@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#4] - Form](https://www.youtube.com/watch?v=OM56YYNxCMI)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#3] - Table](https://www.youtube.com/watch?v=XnMG2Vl7qDs)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#2] - Getting Started](https://www.youtube.com/watch?v=LhngvY3C6KM)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#1]](https://www.youtube.com/watch?v=07MFFOKTm9k)
-- [How to Make Blog Website with Next.js &amp; Tailwind CSS - For Beginners](https://www.youtube.com/watch?v=1T3GF6endl8)
 <!-- YOUTUBE:END -->
 
 -----
