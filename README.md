@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#10] - APIs](https://www.youtube.com/watch?v=OiPBOSFk_Ss)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#9] - MongoDB Connection](https://www.youtube.com/watch?v=iD0y3F767aU)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#8] - Mimic Backend](https://www.youtube.com/watch?v=NbCeW6oHbpk)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#7] - Collapsible Form](https://www.youtube.com/watch?v=8SU5VAtc-_8)
-- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#6] - onSuccess Form](https://www.youtube.com/watch?v=X8ilqMUvh20)
 <!-- YOUTUBE:END -->
 
 -----
