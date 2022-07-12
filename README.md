@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#12] - Posting Data](https://www.youtube.com/watch?v=MD8qMfbhUYY)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#11] - Schema &amp; Controllers](https://www.youtube.com/watch?v=AQh7wu4BGD4)
 - [What is Git? Initialize Git Repository #shorts](https://www.youtube.com/watch?v=QmOqta-5Ddk)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#10] - APIs](https://www.youtube.com/watch?v=OiPBOSFk_Ss)
-- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#9] - MongoDB Connection](https://www.youtube.com/watch?v=iD0y3F767aU)
 <!-- YOUTUBE:END -->
 
 -----
