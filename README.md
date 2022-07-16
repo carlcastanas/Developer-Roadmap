@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#16] - Consume Backend API](https://www.youtube.com/watch?v=_kQI6FKmPw4)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#15] - Dynamic API Endpoint](https://www.youtube.com/watch?v=nPh73Xc7QVU)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#14] - Delete Request](https://www.youtube.com/watch?v=v6uHpUyHDPQ)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#13] - PUT Request](https://www.youtube.com/watch?v=pNp3pHneUno)
-- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#12] - Posting Data](https://www.youtube.com/watch?v=MD8qMfbhUYY)
 <!-- YOUTUBE:END -->
 
 -----
