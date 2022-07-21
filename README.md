@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#20] - Dispatch Actions](https://www.youtube.com/watch?v=3uPgtkI6DFM)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#19] - Redux Toolkit](https://www.youtube.com/watch?v=yLJVc_3Rk3o)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#18] - Helper Function](https://www.youtube.com/watch?v=i4D0CJUveYc)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#17] - React Query](https://www.youtube.com/watch?v=8u52wEFeVTE)
-- [JavaScript Optional Chaining In Less Than 1 Minutes #shorts](https://www.youtube.com/watch?v=vqIUhO9mFAo)
 <!-- YOUTUBE:END -->
 
 -----
