@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#22] - Update Toggle Form](https://www.youtube.com/watch?v=LlcweXnRfqM)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#21] - Create Employee](https://www.youtube.com/watch?v=CxfUNatOnO8)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#20] - Dispatch Actions](https://www.youtube.com/watch?v=3uPgtkI6DFM)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#19] - Redux Toolkit](https://www.youtube.com/watch?v=yLJVc_3Rk3o)
-- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#18] - Helper Function](https://www.youtube.com/watch?v=i4D0CJUveYc)
 <!-- YOUTUBE:END -->
 
 -----
