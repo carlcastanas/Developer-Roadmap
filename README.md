@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#25] - Redux Middleware](https://www.youtube.com/watch?v=xZj3LuVYZNo)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#24] - Fill Textboxes](https://www.youtube.com/watch?v=xl0CGRcKdA8)
 - [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#23] - Update Form](https://www.youtube.com/watch?v=_sSilzUJVf8)
 - [JavaScript Nullish Coalescing Operator #shorts](https://www.youtube.com/watch?v=r6bmP18d8kI)
-- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#22] - Update Toggle Form](https://www.youtube.com/watch?v=LlcweXnRfqM)
 <!-- YOUTUBE:END -->
 
 -----
