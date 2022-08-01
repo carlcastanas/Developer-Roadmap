@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [How to Add New Middleware Feature with Next.js 12.2 In Application - For Beginners](https://www.youtube.com/watch?v=fCA8nnoJrbQ)
 - [Understanding Generator Function Example #shorts](https://www.youtube.com/watch?v=AtKSXaWJ9MU)
 - [JavaScript Generator Functions In less than 1 minute #shorts](https://www.youtube.com/watch?v=AQRlybDabuE)
 - [Complete CRUD Operation With Next.js &amp; MongoDB - For Beginners](https://www.youtube.com/watch?v=RKDfKbLJkZQ)
-- [CRUD Application with Redux &amp; React Query - Next.js For Beginners [#27] - Delete Employee](https://www.youtube.com/watch?v=-wcB4OEJm6w)
 <!-- YOUTUBE:END -->
 
 -----
