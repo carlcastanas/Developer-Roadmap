@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Understanding All React 18 Hooks In Depth - For Beginners [#1]](https://www.youtube.com/watch?v=ZAcASkz7pzE)
 - [How to Add New Middleware Feature with Next.js 12.2 In Application - For Beginners](https://www.youtube.com/watch?v=fCA8nnoJrbQ)
 - [Understanding Generator Function Example #shorts](https://www.youtube.com/watch?v=AtKSXaWJ9MU)
 - [JavaScript Generator Functions In less than 1 minute #shorts](https://www.youtube.com/watch?v=AQRlybDabuE)
-- [Complete CRUD Operation With Next.js &amp; MongoDB - For Beginners](https://www.youtube.com/watch?v=RKDfKbLJkZQ)
 <!-- YOUTUBE:END -->
 
 -----
