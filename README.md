@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Understanding All React 18 Hooks In Depth - For Beginners [#4] - useReducer&lpar;&rpar;](https://www.youtube.com/watch?v=ZdlhJ37BL_s)
 - [Understanding All React 18 Hooks In Depth - For Beginners [#3] - useContext&lpar;&rpar;](https://www.youtube.com/watch?v=3CYc_N60nk4)
 - [Understanding All React 18 Hooks In Depth - For Beginners [#2] - useEffect&lpar;&rpar;](https://www.youtube.com/watch?v=_2Gt33cUQec)
 - [Understanding All React 18 Hooks In Depth - For Beginners [#1]](https://www.youtube.com/watch?v=ZAcASkz7pzE)
-- [How to Add New Middleware Feature with Next.js 12.2 In Application - For Beginners](https://www.youtube.com/watch?v=fCA8nnoJrbQ)
 <!-- YOUTUBE:END -->
 
 -----
