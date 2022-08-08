@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Understanding All React 18 Hooks In Depth - For Beginners [#6] - useCallback&lpar;&rpar;](https://www.youtube.com/watch?v=V82kM9otV-M)
 - [Higher Order Function Simple Example #shorts](https://www.youtube.com/watch?v=TxVbeprSqfw)
 - [JavaScript Higher Order Functions In less than 1 Minute #shorts](https://www.youtube.com/watch?v=7dYSzpw1Qd0)
 - [Understanding All React 18 Hooks In Depth - For Beginners [#5] - useRef&lpar;&rpar;](https://www.youtube.com/watch?v=Sz0FUtWt0nU)
-- [Understanding All React 18 Hooks In Depth - For Beginners [#4] - useReducer&lpar;&rpar;](https://www.youtube.com/watch?v=ZdlhJ37BL_s)
 <!-- YOUTUBE:END -->
 
 -----
