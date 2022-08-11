@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Understanding All React 18 Hooks In Depth - For Beginners [#9] - useLayoutEffect&lpar;&rpar;](https://www.youtube.com/watch?v=h0sJEcUrITg)
 - [Understanding All React 18 Hooks In Depth - For Beginners [#8] - useMemo&lpar;&rpar;](https://www.youtube.com/watch?v=2lgkla9K9CI)
 - [Understanding All React 18 Hooks In Depth - For Beginners [#7] - useImparitiveHandle&lpar;&rpar;](https://www.youtube.com/watch?v=YG0SRiqhIZs)
 - [Understanding All React 18 Hooks In Depth - For Beginners [#6] - useCallback&lpar;&rpar;](https://www.youtube.com/watch?v=V82kM9otV-M)
-- [Higher Order Function Simple Example #shorts](https://www.youtube.com/watch?v=TxVbeprSqfw)
 <!-- YOUTUBE:END -->
 
 -----
