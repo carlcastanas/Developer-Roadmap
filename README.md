@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [All React 18 Hooks In Depth For Beginners](https://www.youtube.com/watch?v=boSbtu-6q58)
 - [Understanding All React 18 Hooks In Depth - For Beginners [#14] - Custom Hook](https://www.youtube.com/watch?v=0yL-N0GLSt0)
 - [Understanding All React 18 Hooks In Depth - For Beginners [#13] - useSyncExternalStore&lpar;&rpar;](https://www.youtube.com/watch?v=dtS98IHP7xc)
 - [Understanding All React 18 Hooks In Depth - For Beginners [#12] - useId&lpar;&rpar;](https://www.youtube.com/watch?v=wzyPlUJNcsM)
-- [JavaScript Prefix ++i and Postfix i++ Operator #shorts](https://www.youtube.com/watch?v=GiEKVlqNfow)
 <!-- YOUTUBE:END -->
 
 -----
