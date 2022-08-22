@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Authentication App with Google &amp; Github Login - Next.js For Beginners [#3] - Layout Component](https://www.youtube.com/watch?v=rt9__6mA-c8)
 - [JavaScript Interview Question #shorts #javascript](https://www.youtube.com/watch?v=FW6O67v2shI)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#2] - Getting Started](https://www.youtube.com/watch?v=Yhp7en_kyeo)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#1]](https://www.youtube.com/watch?v=fAdrdiTfGgc)
-- [All React 18 Hooks In Depth For Beginners](https://www.youtube.com/watch?v=boSbtu-6q58)
 <!-- YOUTUBE:END -->
 
 -----
