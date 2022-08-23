@@ -1,9 +1,9 @@
 ### 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Resumability, WTF?](https://dev.to/this-is-learning/resumability-wtf-2gcm)
 - [The JavaScript Paradox](https://dev.to/this-is-learning/the-javascript-paradox-2njj)
 - [The Cost of Consistency in UI Frameworks](https://dev.to/this-is-learning/the-cost-of-consistency-in-ui-frameworks-4agi)
 - [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
-- [When Netlify asks you to full-time OSS, you say yes!](https://dev.to/ryansolid/when-netlify-asks-you-to-full-time-oss-you-say-yes-5ccf)
 <!-- BLOG-POST-LIST:END -->
 
 -----
