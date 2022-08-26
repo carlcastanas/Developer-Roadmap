@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Authentication App with Google &amp; Github Login - Next.js For Beginners [#7] - React Icons](https://www.youtube.com/watch?v=DX41PfWZZpc)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#6] - Style Login Form](https://www.youtube.com/watch?v=cyXVE4lilbc)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#5] - Login Form](https://www.youtube.com/watch?v=lQagratbG3w)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#4] - Live Image](https://www.youtube.com/watch?v=IrR4uhuiDgg)
-- [Authentication App with Google &amp; Github Login - Next.js For Beginners [#3] - Layout Component](https://www.youtube.com/watch?v=rt9__6mA-c8)
 <!-- YOUTUBE:END -->
 
 -----
