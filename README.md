@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Authentication App with Google &amp; Github Login - Next.js For Beginners [#13] - Github Login](https://www.youtube.com/watch?v=2nq3rJ3gBvU)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#12] - Protected Routes](https://www.youtube.com/watch?v=s3rFYeLTMrk)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#11] - Google Auth](https://www.youtube.com/watch?v=dFqKyn7IW6c)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#10] - NextAuth](https://www.youtube.com/watch?v=IRDVQwHcAhE)
-- [Authentication App with Google &amp; Github Login - Next.js For Beginners [#9] -  Authorize Homepage](https://www.youtube.com/watch?v=JRr_tZ14iEQ)
 <!-- YOUTUBE:END -->
 
 -----
