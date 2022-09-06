@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Authentication App with Google &amp; Github Login - Next.js For Beginners [#16] - Validation](https://www.youtube.com/watch?v=mRGtvJVi4wI)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#15] - Register Formik](https://www.youtube.com/watch?v=CL-rlA5g9Zg)
 - [What is a unary function Javascirpt? #shorts](https://www.youtube.com/watch?v=PHesk1CGe3Y)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#14] - Formik](https://www.youtube.com/watch?v=8WOvYX84Ds8)
-- [Authentication App with Google &amp; Github Login - Next.js For Beginners [#13] - Github Login](https://www.youtube.com/watch?v=2nq3rJ3gBvU)
 <!-- YOUTUBE:END -->
 
 -----
