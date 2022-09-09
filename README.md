@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Authentication App with Google &amp; Github Login - Next.js For Beginners [#19] - Schema](https://www.youtube.com/watch?v=53VEf66w-bs)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#18] - MongoDB](https://www.youtube.com/watch?v=ZDXtUOo4qEM)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#17] - Register Validation](https://www.youtube.com/watch?v=xeFwg3MczJ0)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#16] - Validation](https://www.youtube.com/watch?v=mRGtvJVi4wI)
-- [Authentication App with Google &amp; Github Login - Next.js For Beginners [#15] - Register Formik](https://www.youtube.com/watch?v=CL-rlA5g9Zg)
 <!-- YOUTUBE:END -->
 
 -----
