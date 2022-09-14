@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [NextAuth Course - Complete Authentication with Credentials, Google &amp; GitHub](https://www.youtube.com/watch?v=t0Fs0NO78X8)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#22] - Finalizing](https://www.youtube.com/watch?v=P3LhXOxVfZA)
 - [Authentication App with Google &amp; Github Login - Next.js For Beginners [#21] - Login](https://www.youtube.com/watch?v=GQ0iMonRcJ4)
 - [What is JavaScript call&lpar;&rpar; Method #shorts](https://www.youtube.com/watch?v=uvYQsII5-2s)
-- [Authentication App with Google &amp; Github Login - Next.js For Beginners [#20] - Sign Up](https://www.youtube.com/watch?v=FT3d5GELPg8)
 <!-- YOUTUBE:END -->
 
 -----
