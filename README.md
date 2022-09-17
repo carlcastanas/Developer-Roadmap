@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [03]](https://www.youtube.com/watch?v=tidpU8dFNOc)
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [02]](https://www.youtube.com/watch?v=xEAlhBrcCdo)
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [01]](https://www.youtube.com/watch?v=d5kJDe1Y6ZU)
 - [NextAuth Course - Complete Authentication with Credentials, Google &amp; GitHub](https://www.youtube.com/watch?v=t0Fs0NO78X8)
-- [Authentication App with Google &amp; Github Login - Next.js For Beginners [#22] - Finalizing](https://www.youtube.com/watch?v=P3LhXOxVfZA)
 <!-- YOUTUBE:END -->
 
 -----
