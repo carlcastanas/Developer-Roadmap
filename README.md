@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [04]](https://www.youtube.com/watch?v=1__UdtQMVgQ)
 - [What is JavaScript Function Borrowing? #shorts](https://www.youtube.com/watch?v=2hcJOQv71AU)
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [03]](https://www.youtube.com/watch?v=tidpU8dFNOc)
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [02]](https://www.youtube.com/watch?v=xEAlhBrcCdo)
-- [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [01]](https://www.youtube.com/watch?v=d5kJDe1Y6ZU)
 <!-- YOUTUBE:END -->
 
 -----
