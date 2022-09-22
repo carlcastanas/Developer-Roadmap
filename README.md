@@ -21,9 +21,9 @@
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [06]](https://www.youtube.com/watch?v=bLjfW8zH6ok)
+- [React with Redux Toolkit For Absolute Beginners](https://www.youtube.com/watch?v=EtjwKf_QphY)
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [05]](https://www.youtube.com/watch?v=R4zefVciZuQ)
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [04]](https://www.youtube.com/watch?v=1__UdtQMVgQ)
-- [What is JavaScript Function Borrowing? #shorts](https://www.youtube.com/watch?v=2hcJOQv71AU)
 <!-- YOUTUBE:END -->
 
 -----
