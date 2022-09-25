@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
-- [HTML &amp; CSS Tutorial For Beginners - 3 Projects](https://www.youtube.com/watch?v=flzhv64NK_0)
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [09]](https://www.youtube.com/watch?v=5fHTNn7e19c)
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [08]](https://www.youtube.com/watch?v=yDh4hrvJ0Qk)
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [07]](https://www.youtube.com/watch?v=rmUh8dm2Xes)
+- [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [06]](https://www.youtube.com/watch?v=bLjfW8zH6ok)
 <!-- YOUTUBE:END -->
 
 -----
