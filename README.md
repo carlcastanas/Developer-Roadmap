@@ -20,9 +20,9 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Tic Tac Toe With HTML, CSS and JavaScript - For Beginners](https://www.youtube.com/watch?v=6srY5m53iak)
 - [How To Can Use JavaScript apply&lpar;&rpar; Method #shorts](https://www.youtube.com/watch?v=tP5HfG7Mqhg)
 - [HTML &amp; CSS Tutorial For Beginners - 3 Projects](https://www.youtube.com/watch?v=flzhv64NK_0)
-- [Tic Tac Toe With HTML, CSS and JavaScript - For Beginners](https://www.youtube.com/watch?v=6srY5m53iak)
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [09]](https://www.youtube.com/watch?v=5fHTNn7e19c)
 <!-- YOUTUBE:END -->
 
