@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [02]](https://www.youtube.com/watch?v=pfjWOH4g4dE)
+- [React Tutorial for Beginners - 2 Projects](https://www.youtube.com/watch?v=lxFvm4BT4So)
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [01]](https://www.youtube.com/watch?v=fq4KbjpbCzo)
 - [How To Can Use JavaScript apply&lpar;&rpar; Method #shorts](https://www.youtube.com/watch?v=tP5HfG7Mqhg)
-- [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [09]](https://www.youtube.com/watch?v=5fHTNn7e19c)
-- [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params - [08]](https://www.youtube.com/watch?v=yDh4hrvJ0Qk)
 <!-- YOUTUBE:END -->
 
 -----
