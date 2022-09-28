@@ -21,9 +21,9 @@
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [03]](https://www.youtube.com/watch?v=fA34d9MHFBU)
-- [All React Hooks - useState&lpar;&rpar;, useEffect&lpar;&rpar;, useId&lpar;&rpar;, useCallback&lpar;&rpar;, useMemo&lpar;&rpar;, useContext&lpar;&rpar; &amp; More](https://www.youtube.com/watch?v=TPYTrb30S1I)
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [02]](https://www.youtube.com/watch?v=pfjWOH4g4dE)
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [01]](https://www.youtube.com/watch?v=fq4KbjpbCzo)
+- [How To Can Use JavaScript apply&lpar;&rpar; Method #shorts](https://www.youtube.com/watch?v=tP5HfG7Mqhg)
 <!-- YOUTUBE:END -->
 
 -----
