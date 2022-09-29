@@ -21,9 +21,9 @@
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [04]](https://www.youtube.com/watch?v=ScTylw5DPmg)
-- [Image Uploader Using Node, Express &amp; MongoDB - For Beginners](https://www.youtube.com/watch?v=J9ZHr9_GdnY)
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [03]](https://www.youtube.com/watch?v=fA34d9MHFBU)
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [02]](https://www.youtube.com/watch?v=pfjWOH4g4dE)
+- [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [01]](https://www.youtube.com/watch?v=fq4KbjpbCzo)
 <!-- YOUTUBE:END -->
 
 -----
