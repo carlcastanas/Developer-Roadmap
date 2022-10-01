@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
-- [Supabase with React Application - User Authentication](https://www.youtube.com/watch?v=1IkDWho9L9E)
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [05]](https://www.youtube.com/watch?v=OX41iFGHk1Y)
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [04]](https://www.youtube.com/watch?v=ScTylw5DPmg)
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [03]](https://www.youtube.com/watch?v=fA34d9MHFBU)
+- [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [02]](https://www.youtube.com/watch?v=pfjWOH4g4dE)
 <!-- YOUTUBE:END -->
 
 -----
