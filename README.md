@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [07]](https://www.youtube.com/watch?v=Jyh8pVWQ8sU)
 - [Using bind&lpar;&rpar; Method to Reuse JavaScript Methods #shorts](https://www.youtube.com/watch?v=kDJPFv6Xieg)
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [06]](https://www.youtube.com/watch?v=AUhISYWvQ18)
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [05]](https://www.youtube.com/watch?v=OX41iFGHk1Y)
-- [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [04]](https://www.youtube.com/watch?v=ScTylw5DPmg)
 <!-- YOUTUBE:END -->
 
 -----
