@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Using Lenght Property In JavaScript #shorts](https://www.youtube.com/watch?v=n4BWGmo-k8s)
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params with Auth Project](https://www.youtube.com/watch?v=1MMebrb-T8c)
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [08]](https://www.youtube.com/watch?v=M1Z4pQkoP5M)
 - [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [07]](https://www.youtube.com/watch?v=Jyh8pVWQ8sU)
-- [Using bind&lpar;&rpar; Method to Reuse JavaScript Methods #shorts](https://www.youtube.com/watch?v=kDJPFv6Xieg)
 <!-- YOUTUBE:END -->
 
 -----
