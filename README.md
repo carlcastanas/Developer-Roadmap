@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Callback Function in JavaScript with Async &amp; Await](https://www.youtube.com/watch?v=XjFF5M0NBLM)
 - [JavaScript Practical Interview Questions - For Beginners](https://www.youtube.com/watch?v=OO1MIG1LguA)
 - [Using Lenght Property In JavaScript #shorts](https://www.youtube.com/watch?v=n4BWGmo-k8s)
 - [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params with Auth Project](https://www.youtube.com/watch?v=1MMebrb-T8c)
-- [React Router v6 Authentication with Protected Routes, Nested Routes, Active Link - [08]](https://www.youtube.com/watch?v=M1Z4pQkoP5M)
 <!-- YOUTUBE:END -->
 
 -----
