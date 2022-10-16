@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
-- [Complete Next.js Course in 2 Hours - For Beginners](https://www.youtube.com/watch?v=hNInu0_dp7s)
 - [Callback Function in JavaScript with Async &amp; Await](https://www.youtube.com/watch?v=XjFF5M0NBLM)
 - [JavaScript Practical Interview Questions - For Beginners](https://www.youtube.com/watch?v=OO1MIG1LguA)
 - [Using Lenght Property In JavaScript #shorts](https://www.youtube.com/watch?v=n4BWGmo-k8s)
+- [React Router v6 - Protected Routes, Nested Routes, Active Link, Search Params with Auth Project](https://www.youtube.com/watch?v=1MMebrb-T8c)
 <!-- YOUTUBE:END -->
 
 -----
