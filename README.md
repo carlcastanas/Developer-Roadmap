@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [MERN Stack Complete Quiz Application - Full Course](https://www.youtube.com/watch?v=BNN4o4gnSF4)
 - [Tailwind CSS Grid Layout with React - For Beginners](https://www.youtube.com/watch?v=ERmtjRqWNcY)
 - [Callback Function in JavaScript with Async &amp; Await](https://www.youtube.com/watch?v=XjFF5M0NBLM)
 - [JavaScript Practical Interview Questions - For Beginners](https://www.youtube.com/watch?v=OO1MIG1LguA)
-- [Using Lenght Property In JavaScript #shorts](https://www.youtube.com/watch?v=n4BWGmo-k8s)
 <!-- YOUTUBE:END -->
 
 -----
