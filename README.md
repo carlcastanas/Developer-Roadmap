@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Complete MERN Stack Quiz App Tutorial #shorts](https://www.youtube.com/watch?v=_ZZ97TrhXXM)
 - [Understanding the Typeof Statement #shorts](https://www.youtube.com/watch?v=XMVVZxd9nng)
 - [MERN Stack Complete Quiz Application - Full Course](https://www.youtube.com/watch?v=BNN4o4gnSF4)
 - [Tailwind CSS Grid Layout with React - For Beginners](https://www.youtube.com/watch?v=ERmtjRqWNcY)
-- [Callback Function in JavaScript with Async &amp; Await](https://www.youtube.com/watch?v=XjFF5M0NBLM)
 <!-- YOUTUBE:END -->
 
 -----
