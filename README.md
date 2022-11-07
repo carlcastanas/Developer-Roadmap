@@ -1,9 +1,9 @@
 ### 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Client-side Routing without the JavaScript](https://dev.to/this-is-learning/client-side-routing-without-the-javascript-3k1i)
 - [Resumability, WTF?](https://dev.to/this-is-learning/resumability-wtf-2gcm)
 - [The JavaScript Paradox](https://dev.to/this-is-learning/the-javascript-paradox-2njj)
 - [The Cost of Consistency in UI Frameworks](https://dev.to/this-is-learning/the-cost-of-consistency-in-ui-frameworks-4agi)
-- [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
 <!-- BLOG-POST-LIST:END -->
 
 -----
