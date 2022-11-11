@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Tailwind Flexbox in Detail with React App](https://www.youtube.com/watch?v=2b1wwncor6E)
 - [React Short Circuit Evaluation #shorts](https://www.youtube.com/watch?v=FLmllP18QD0)
 - [New Next.js 13 App Directory Routing](https://www.youtube.com/watch?v=kMjTh_tRvL0)
 - [Complete MERN Stack Quiz App Tutorial #shorts](https://www.youtube.com/watch?v=_ZZ97TrhXXM)
-- [Understanding the Typeof Statement #shorts](https://www.youtube.com/watch?v=XMVVZxd9nng)
 <!-- YOUTUBE:END -->
 
 -----
