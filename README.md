@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Why Use CSS Module In React? #shorts](https://www.youtube.com/watch?v=88IgYYeJrdw)
 - [Where&lpar;&rpar; CSS Selector - How to use it?](https://www.youtube.com/watch?v=yJBYqTNEK08)
 - [Tailwind Flexbox in Detail with React App](https://www.youtube.com/watch?v=2b1wwncor6E)
 - [React Short Circuit Evaluation #shorts](https://www.youtube.com/watch?v=FLmllP18QD0)
-- [New Next.js 13 App Directory Routing](https://www.youtube.com/watch?v=kMjTh_tRvL0)
 <!-- YOUTUBE:END -->
 
 -----
