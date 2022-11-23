@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [In Memory Mongo Database with Node.js &amp; Express](https://www.youtube.com/watch?v=gZKwbDrDWUs)
 - [Why Use CSS Module In React? #shorts](https://www.youtube.com/watch?v=88IgYYeJrdw)
 - [Where&lpar;&rpar; CSS Selector - How to use it?](https://www.youtube.com/watch?v=yJBYqTNEK08)
 - [Tailwind Flexbox in Detail with React App](https://www.youtube.com/watch?v=2b1wwncor6E)
-- [React Short Circuit Evaluation #shorts](https://www.youtube.com/watch?v=FLmllP18QD0)
 <!-- YOUTUBE:END -->
 
 -----
