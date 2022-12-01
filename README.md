@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Zustand State Management Library for React - Redux Killer](https://www.youtube.com/watch?v=lznmXgQe1jA)
 - [Why Key is Important In React App? #shorts](https://www.youtube.com/watch?v=OkXEAxWWhjo)
 - [In Memory Mongo Database with Node.js &amp; Express](https://www.youtube.com/watch?v=gZKwbDrDWUs)
 - [Why Use CSS Module In React? #shorts](https://www.youtube.com/watch?v=88IgYYeJrdw)
-- [Where&lpar;&rpar; CSS Selector - How to use it?](https://www.youtube.com/watch?v=yJBYqTNEK08)
 <!-- YOUTUBE:END -->
 
 -----
