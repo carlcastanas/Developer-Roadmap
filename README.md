@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Store Image in Base64 in MongoDB Using MERN Stack](https://www.youtube.com/watch?v=pfxd7L1kzio)
 - [Zustand State Management Library for React - Redux Killer](https://www.youtube.com/watch?v=lznmXgQe1jA)
 - [Why Key is Important In React App? #shorts](https://www.youtube.com/watch?v=OkXEAxWWhjo)
 - [In Memory Mongo Database with Node.js &amp; Express](https://www.youtube.com/watch?v=gZKwbDrDWUs)
-- [Why Use CSS Module In React? #shorts](https://www.youtube.com/watch?v=88IgYYeJrdw)
 <!-- YOUTUBE:END -->
 
 -----
