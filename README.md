@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Why React Prints Console Logs Twice #shorts](https://www.youtube.com/watch?v=u6twfkRPljU)
 - [Send Mail with Nodemailer Using Node.js Backend](https://www.youtube.com/watch?v=lBRnLXwjLw0)
 - [Using Import Syntax in Express Js Node Backend #shorts](https://www.youtube.com/watch?v=26bAabHbKCE)
 - [Nested Layout with App Directory Using Next.js 13](https://www.youtube.com/watch?v=l0kHyQBs69M)
-- [Testing API In Vs Code with Thunder Client #shorts](https://www.youtube.com/watch?v=z43-q2UxaLw)
 <!-- YOUTUBE:END -->
 
 -----
