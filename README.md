@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Complete MERN App &lpar;OTP Verification, JWT Token, Authentication, Reset Password&rpar;](https://www.youtube.com/watch?v=BfrJxGQEPSc)
 - [Why React Prints Console Logs Twice #shorts](https://www.youtube.com/watch?v=u6twfkRPljU)
 - [Send Mail with Nodemailer Using Node.js Backend](https://www.youtube.com/watch?v=lBRnLXwjLw0)
 - [Using Import Syntax in Express Js Node Backend #shorts](https://www.youtube.com/watch?v=26bAabHbKCE)
-- [Nested Layout with App Directory Using Next.js 13](https://www.youtube.com/watch?v=l0kHyQBs69M)
 <!-- YOUTUBE:END -->
 
 -----
