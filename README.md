@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [String Values As HTML Element #shorts](https://www.youtube.com/watch?v=MO4eFoHFPDw)
 - [Stop Using create-react-app Instead Use #shorts](https://www.youtube.com/watch?v=gI1xVR-RDiA)
 - [Complete MERN App &lpar;OTP Verification, JWT Token, Authentication, Reset Password&rpar;](https://www.youtube.com/watch?v=BfrJxGQEPSc)
 - [Why React Prints Console Logs Twice #shorts](https://www.youtube.com/watch?v=u6twfkRPljU)
-- [Send Mail with Nodemailer Using Node.js Backend](https://www.youtube.com/watch?v=lBRnLXwjLw0)
 <!-- YOUTUBE:END -->
 
 -----
