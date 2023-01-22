@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Make API Request Right In The vsCode #shorts](https://www.youtube.com/watch?v=m96X2_NbzYs)
 - [Using Container Queries of CSS](https://www.youtube.com/watch?v=E1V8OUv-lS4)
 - [Border Animation For Button CSS #shorts](https://www.youtube.com/watch?v=-7UMj1j4Dqw)
 - [Persist React State in Local Storage #shorts](https://www.youtube.com/watch?v=BYPPWU8Mcd0)
-- [String Values As HTML Element #shorts](https://www.youtube.com/watch?v=MO4eFoHFPDw)
 <!-- YOUTUBE:END -->
 
 -----
