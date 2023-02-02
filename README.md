@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [How To Resize The Array In JavaScript? #shorts](https://www.youtube.com/watch?v=cMmy1LadWdo)
 - [Using ChatGPT to Create Backend with Node &amp; Express](https://www.youtube.com/watch?v=2wuAlqFidFw)
 - [How to Shorten Console.log #shorts](https://www.youtube.com/watch?v=ttAgXDAIdp8)
 - [Make API Request Right In The vsCode #shorts](https://www.youtube.com/watch?v=m96X2_NbzYs)
-- [Using Container Queries of CSS](https://www.youtube.com/watch?v=E1V8OUv-lS4)
 <!-- YOUTUBE:END -->
 
 -----
