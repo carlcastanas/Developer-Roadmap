@@ -1,9 +1,9 @@
 ### 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of Signals in JavaScript](https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob)
 - [JavaScript Frameworks - Heading into 2023](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2023-nln)
 - [Client-side Routing without the JavaScript](https://dev.to/this-is-learning/client-side-routing-without-the-javascript-3k1i)
 - [Resumability, WTF?](https://dev.to/this-is-learning/resumability-wtf-2gcm)
-- [The JavaScript Paradox](https://dev.to/this-is-learning/the-javascript-paradox-2njj)
 <!-- BLOG-POST-LIST:END -->
 
 -----
