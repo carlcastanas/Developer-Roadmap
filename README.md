@@ -20,7 +20,7 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
-- [Second Normalize Form with MongoDB Using Node &amp; Express](https://www.youtube.com/watch?v=zXEYQNP-eQk)
+- [Connect Two Tables in MongoDB Using Node &amp; Express](https://www.youtube.com/watch?v=zXEYQNP-eQk)
 - [How To Resize The Array In JavaScript? #shorts](https://www.youtube.com/watch?v=cMmy1LadWdo)
 - [Using ChatGPT to Create Backend with Node &amp; Express](https://www.youtube.com/watch?v=2wuAlqFidFw)
 - [How to Shorten Console.log #shorts](https://www.youtube.com/watch?v=ttAgXDAIdp8)
