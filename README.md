@@ -20,10 +20,10 @@
 
 ### 📕 &nbsp;**Latest Youtube Video**
 <!-- YOUTUBE:START -->
+- [Get ChatGPT Paid for Free #shorts](https://www.youtube.com/watch?v=4lm7nngiXHE)
 - [Build ChatGPT 2.0 with Next.js and OpenAI API - Chat Rooms, MongoDB, Dynamic Routes, Custom API](https://www.youtube.com/watch?v=MuVnlNeVqEk)
 - [Connect Two Tables in MongoDB Using Node &amp; Express](https://www.youtube.com/watch?v=zXEYQNP-eQk)
 - [How To Resize The Array In JavaScript? #shorts](https://www.youtube.com/watch?v=cMmy1LadWdo)
-- [Create Backend App with ChatGPT - Node, Express Js](https://www.youtube.com/watch?v=2wuAlqFidFw)
 <!-- YOUTUBE:END -->
 
 -----
