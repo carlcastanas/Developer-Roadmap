@@ -1,9 +1,9 @@
 ### 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Islands &amp; Server Components &amp; Resumability, Oh My!](https://dev.to/this-is-learning/islands-server-components-resumability-oh-my-319d)
 - [Making the Case for Signals in JavaScript](https://dev.to/this-is-learning/making-the-case-for-signals-in-javascript-4c7i)
 - [React vs Signals: 10 Years Later](https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71)
 - [The Evolution of Signals in JavaScript](https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob)
-- [JavaScript Frameworks - Heading into 2023](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2023-nln)
 <!-- BLOG-POST-LIST:END -->
 
 -----
