@@ -1,9 +1,9 @@
 ### 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Derivations in Reactivity](https://dev.to/this-is-learning/derivations-in-reactivity-4fo1)
 - [JavaScript Frameworks - Heading into 2024](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2024-i3l)
 - [Thinking Locally with Signals](https://dev.to/this-is-learning/thinking-locally-with-signals-3b7h)
 - [Islands &amp; Server Components &amp; Resumability, Oh My!](https://dev.to/this-is-learning/islands-server-components-resumability-oh-my-319d)
-- [Making the Case for Signals in JavaScript](https://dev.to/this-is-learning/making-the-case-for-signals-in-javascript-4c7i)
 <!-- BLOG-POST-LIST:END -->
 
 -----
